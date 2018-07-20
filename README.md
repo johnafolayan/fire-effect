@@ -1,2 +1,3 @@
 # fire-effect
-Simulation of fire with particles
+
+Minimalist implementation of fire with particles.
